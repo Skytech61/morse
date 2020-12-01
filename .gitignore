@@ -1,0 +1,10 @@
+.vscode
+bin
+obj
+C.cbp
+C.layout
+EX05EN.pdf
+EX05Sol.pdf
+main.o
+main.exe
+EX05.exe
